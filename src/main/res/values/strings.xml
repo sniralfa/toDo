@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">toDo</string>
+    <string name="add_button">add new item</string>
+
+    <!-- Actions -->
+    <string name="call_action_name">call</string>
+    <string name="cancel_action_name">cancel</string>
+
+    <!-- Actions' regexes
+    <string name="call_reminder_description_regex">^([\\w]+?)1([\\w]+?)$</string> -->
+
+    <string name="menu_delete">Delete</string>
+    <string name="add_item_text">Add item:</string>
+</resources>
